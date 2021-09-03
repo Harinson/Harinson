@@ -28,7 +28,7 @@
 
   
  ## Contribuation snake
-   ![Snake animation](https://github.com/harinson/harinosn/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Harinson/Harinson/blob/output/github-contribution-grid-snake.svg)
  ## Visit counter<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Harinson/count.svg" />
