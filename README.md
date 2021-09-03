@@ -27,7 +27,7 @@
 </div>
 
   
- ## Contribuation snake
+ ## Contribution snake
    ![Snake animation](https://github.com/Harinson/Harinson/blob/output/github-contribution-grid-snake.svg)
  ## Visit counter<br>
  <p align="center"> 
