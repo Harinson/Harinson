@@ -7,7 +7,7 @@
 ## Carrer
 **PHP developer for 2 years.** <br/>
 **Work with Google's Workspace with GAM Api.** <br/>
-**I'm actualy a Flutter Developer on Multiplier.** <br/>
+**I'm currently a Flutter Developer on Multiplier.** <br/>
 **Basketball player with no fame.** <br/>
 
 
