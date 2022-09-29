@@ -10,10 +10,10 @@
 **Basketball player with no fame.** <br/>
 
 
- <div align="center">
-  <a href="https://github.com/Harinson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harinson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+<div align="center">
+  <a href="https://github.com/harinson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=tokyonight&hide=java,javascript"/>
 </div>
 
 
@@ -24,6 +24,8 @@
  <a href="https://www.instagram.com/igorharinson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igorharinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
   
  ## Contribution snake
