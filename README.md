@@ -1,13 +1,12 @@
 ### Hi 👋
 
-### My name is Igor, but you can call me Harinson. I'm 22 and im a Flutter Analyst.
+### My name is Igor, but you can call me Harinson. I'm 22 and Flutter Mobile Developer.
 ##
  
 
 ## Carrer
 **PHP developer for 2 years.** <br/>
-**Work with Google's Workspace with GAM Api.** <br/>
-**I'm currently a Flutter Analyst on NTT Data.** <br/>
+**Work with Google's Workspace and GAM Api.** <br/>
 **Basketball player with no fame.** <br/>
 
 
