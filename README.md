@@ -1,19 +1,20 @@
 ### Hi 👋
 
-### My name is Igor, but you can call me Harinson. I'm 22 and Flutter Mobile Developer.
+### My name is Igor, but you can call me Harinson. I'm 23 and I'm a Sênior Flutter Developer.
 ##
  
 
 ## Carrer
-**PHP developer for 2 years.** <br/>
+**PHP Fullstack Developer for 2 years.** <br/>
 **Work with Google's Workspace and GAM Api.** <br/>
 **Basketball player with no fame.** <br/>
+**Mobile Developer for love.** <br/>
 
 
 <div align="center">
   <a href="https://github.com/harinson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=tokyonight&hide=java,javascript"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 
 
