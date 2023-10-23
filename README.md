@@ -10,11 +10,10 @@
 **Basketball player with no fame.** <br/>
 **Mobile Developer for love.** <br/>
 
-
 <div align="center">
   <a href="https://github.com/harinson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=radical&count_private=true&nclude_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=radical"/>
 </div>
 
 
@@ -28,9 +27,6 @@
 
 
 
-  
- ## Contribution snake
-   ![Snake animation](https://github.com/Harinson/Harinson/blob/output/github-contribution-grid-snake.svg)
  ## Visit counter<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Harinson/count.svg" />
