@@ -6,9 +6,10 @@
 
 ## Carrer
 **PHP Fullstack Developer for 2 years.** <br/>
-**Work with Google's Workspace and GAM Api.** <br/>
-**Basketball player with no fame.** <br/>
-**Mobile Developer for love.** <br/>
+**Work with Google's Workspace and GAM Api to include more than 100k users.** <br/>
+**Flutter Developer for 3 years.** <br/>
+**Co-leader at Escritório Escola on Faculdade CEST - Santa Terezinha.** <br/>
+
 
 <div align="center">
   <a href="https://github.com/harinson">
