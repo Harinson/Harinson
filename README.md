@@ -28,7 +28,7 @@
 
 
 
- ## Visit counter<br>
+ ## Visit counter
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Harinson/count.svg" />
  </p>
