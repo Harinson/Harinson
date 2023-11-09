@@ -5,10 +5,7 @@
  
 
 ## Carrer
-**PHP Fullstack Developer for 2 years.** <br/>
-**Work with Google's Workspace and GAM Api to include more than 100k users.** <br/>
-**Flutter Developer for 3 years.** <br/>
-**Co-leader at Escritório Escola on Faculdade CEST - Santa Terezinha.** <br/>
+Senior Flutter Developer with 5 years of overall experience in the field, specializing in Flutter for the past 3 years. Instrumental in the success of impactful initiatives like Ultragaz, Amigu, Multiplier, Alianz Saúde, Belenus, and Ailos Pix, with some boasting over 1 million users. Pioneered the development of the first app at Faculdade Santa Terezinha, the Carteira Digital - CEST. Currently, actively involved in open-source contributions and passionately sharing Flutter knowledge at the college to mentor and guide emerging talents into the tech industry.
 
 
 <div align="center">
