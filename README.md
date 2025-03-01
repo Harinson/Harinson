@@ -10,7 +10,7 @@ Senior Flutter Developer with 6 years of overall experience in the field, specia
 
 <div align="center">
   <a href="https://github.com/harinson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=radical&count_private=true&nclude_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harinson&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues&show=reviews"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinson&layout=compact&langs_count=5&theme=radical"/>
 </div>
 
